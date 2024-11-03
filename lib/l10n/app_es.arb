@@ -1,0 +1,18 @@
+{
+    "@@locale": "es",
+    "helloWorld": "¡Hola Mundo!",
+    "helloVTI": "Hola VTI, Paju Dora?",
+    "title_appbar": "Pantalla",
+    "info_profile": "Personal",
+    "info_name": "Nombre completo",
+    "info_dob": "Cumpleanos",
+    "info_phone": "Numero",
+    "info_email": "Correo",
+    "info_gen": "Sexo",
+    "info_gen_m": "Hombre",
+    "info_gen_f": "Femenino",
+    "info_gen_o": "Otro",
+    "info_save":   "MANTENER",
+    "info_setting": "Configuracion",
+    "info_languege": "Idioma"
+}
